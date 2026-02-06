@@ -1,4 +1,4 @@
-# OCR A Level Computer Science (H446) NEA Guide
+# OCR A-Level Computer Science (H446) NEA Guide
 
 A comprehensive guide and scaffold for completing the OCR A Level Computer Science Non-Exam Assessment (NEA).
 
