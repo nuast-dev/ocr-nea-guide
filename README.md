@@ -78,3 +78,6 @@ ocr-nea-guide/
 ---
 
 **Next Step:** Begin with [01_Analysis.md](01_Analysis.md)
+
+
+<div style="page-break-before: always;"></div>
