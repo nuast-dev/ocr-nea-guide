@@ -1,4 +1,13 @@
-# OCR A Level Computer Science NEA (H446)  
+# 00 - Getting Started, Ideas Phase
+
+**Timeframe:** Month 0  
+**Target Month:** Before you start
+
+## Navigation
+⬅️ [Back to Overview](README.md) | ➡️ [Next: Analysis](01_Analysis.md)
+
+---
+
 ## Python-friendly project ideas — student guide
 
 You’re choosing an NEA project that must generate evidence for **Analysis, Design, Development/Testing, and Evaluation**. The easiest way to do that is to build a **real tool for a real user** (stakeholder) with **data + rules + edge cases**.

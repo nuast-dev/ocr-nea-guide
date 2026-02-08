@@ -4,7 +4,7 @@
 **Target Month:** Month 2
 
 ## Navigation
-⬅️ [Back to Overview](README.md) | ➡️ [Next: Design](02_Design.md)
+⬅️ [Go to Ideas](00_Ideas.md) | ➡️ [Next: Design](02_Design.md)
 
 ---
 

@@ -10,12 +10,15 @@ The NEA is worth 20% of your A Level grade and requires you to:
 - Develop and test your solution
 - Evaluate the success of your project
 
+**It also serves as revision for the whole software development process.**
+
 This guide provides structure, checklists, and timelines to help you successfully complete your NEA over a 12-month period.
 
 ## 12-Month Timeline
 
 | Month | Phase | Focus Areas |
 |-------|-------|-------------|
+| **Preperation** | [What to do](00_Ideas.md) | Brainstorm personal interests with technical solutions |
 | **Month 1-2** | [Analysis](01_Analysis.md) | Problem identification, stakeholder interviews, research |
 | **Month 3-4** | [Design](02_Design.md) | System architecture, algorithms, UI design, data structures |
 | **Month 5-9** | [Development](03_DevLog.md) | Iterative development with logging all changes |
